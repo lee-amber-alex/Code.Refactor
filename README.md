@@ -1,4 +1,4 @@
-# ->Code Refactoring<- 
+<h1 style="text-align: center;">Code Refactoring</h1> 
 
 
 ## This code has been refactored to include semantic elements.
