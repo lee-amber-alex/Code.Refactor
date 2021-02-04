@@ -6,7 +6,7 @@
      
 ## Description
 
-The purpose of this project was to take existing code and refactor to make it more accessible. This is an incredibly important process to ensure that everyone has the same access to the information provided within a webpage, including persons with disabilities. I refactored this code by replacing non-semantic elements with semantic elements. This exercise was particularly useful in examining the different ways code can be deployed within HTML.  Additionally it provided an example of how simple it is to add semantic elements while maintaining the integrity of the code with its intended structure.
+The purpose of this project was to take existing code and refactor to make it more accessible. This is an incredibly important process to ensure that everyone has the same access to the information provided within a webpage, including persons with disabilities. I refactored this code by replacing non-semantic elements with semantic elements. This exercise was particularly useful in examining the different ways code can be deployed within HTML.  Additionally it provided an example of how simple it is to add semantic elements while maintaining the integrity of the code with its intended structure.  Technologies used: HTML, CSS.
 
 ## Table of Contents
  
@@ -29,7 +29,6 @@ Access the project repository [here.](https://github.com/lee-amber-alex/Code.Ref
 
 ## License
 This project is covered under the MIT License.
-
 
 ## Questions
 - [Email](lee.amber.alex@gmail.com)
